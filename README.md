@@ -1,3 +1,8 @@
+## hulu clone by Andresyrn
+
+All data provided are by TMBD, NOT HULU.  
+this Clone was made only for educational purposes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
