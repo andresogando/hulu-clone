@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-huluclone-dev-154713-authRole",
+      "UnauthRoleArn": "arn:aws:iam::852742705759:role/amplify-huluclone-dev-154713-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::852742705759:role/amplify-huluclone-dev-154713-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-huluclone-dev-154713-deployment",
+      "UnauthRoleName": "amplify-huluclone-dev-154713-unauthRole",
+      "StackName": "amplify-huluclone-dev-154713",
+      "StackId": "arn:aws:cloudformation:us-east-1:852742705759:stack/amplify-huluclone-dev-154713/0a7cbb00-2132-11eb-a4fd-0a57eb901035",
+      "AmplifyAppId": "d2813qo3tlg38r"
+    }
+  }
+}
