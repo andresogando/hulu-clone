@@ -1,3 +1,6 @@
+## LINK DEMO 
+https://main.d2813qo3tlg38r.amplifyapp.com/
+
 ## hulu clone by Andresyrn
 
 All data provided are by TMBD, NOT HULU.  
